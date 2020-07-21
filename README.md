@@ -1,16 +1,10 @@
 # listadetarefas
 
-A new Flutter application.
+App deselvolvido em flutter 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+O projeto é para um app simples com a inteção somente de anotar as coisas, sem conexão com calendario ou horas, sem pedir permisão a nada no seu celular. 
+Utilizado json para montra um map com as inforções adicionadas.
+O app não utiliza banco de dados ele salvas as infoemções em um diretorio, então caso for fechado os dados não serao perdidos.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
